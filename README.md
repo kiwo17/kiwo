@@ -13,7 +13,18 @@ Insert you favorite songs into micro SD card, plug it in the kiwo player, click 
 ### Currently working on ... 
 
 - research
-- schematic
+  
+### schematic 
+
+![schematic](images/schematic.png)
+
+still working on the wiring
+
+### PCB
+
+![PCB](images/PCB.png)
+
+this is the first layout
 
 ### Next steps ...
 
